@@ -1,0 +1,91 @@
+body{
+    text-align: center;
+}
+.heading{
+    justify-content: center;
+    align-items: center;
+    margin-top: 150px;
+    margin-bottom: 0px;
+}
+.content{
+    margin-top: 0px;
+    padding: 0;
+    display: flex;
+    justify-content: center; /*hroizontally center*/
+    align-items: center; /*vertically center*/
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+p{
+     justify-content: center;
+    align-items: center;
+}
+.empty-box{
+    display: flex;
+    height: 10vh;
+    width: 10vh;
+    margin: 10px;
+    border: 2px solid black;
+}
+#box1{
+    background-color: blue;
+}
+#box2{
+    background-color: brown;
+
+}
+#box3{
+    background-color: yellow;
+}
+#box4{
+    background-color: rgb(156, 18, 11);
+}
+#box5{
+    background-color: fuchsia;
+}
+#box6{
+    background-color: darkgreen;
+}
+#box7{
+    background-color: skyblue;
+}
+#box8{
+    background-color: seagreen;
+}
+#box9{
+    background-color: salmon;
+}
+#box10{
+    background-color: greenyellow;
+}
+#box11{
+    background-color: orange;
+}
+#box12{
+    background-color: black;
+}
+#box13{
+    background-color: violet;
+}
+#box14{
+    background-color: grey;
+}
+#box15{
+    background-color: pink;
+}
+#box16{
+    background-color: purple;
+}
+#box17{
+    background-color: rgb(49, 162, 219);
+}
+#box18{
+    background-color: rgb(4, 13, 92);
+}
+#box19{
+    background-color: rgb(135, 17, 100);
+}
+#box20{
+    background-color: red; 
+}
