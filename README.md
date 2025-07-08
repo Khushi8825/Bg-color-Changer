@@ -32,9 +32,11 @@
 
 ## 📂 Project Structure
 colour-changer/
-├── index.html       # Main HTML file
-├── CCstyle.css      # CSS styling file
-├── CCscript.js      # JavaScript logic
-└── README.md        # Project documentation
+```
+    index.html     # Main HTML file
+    CCstyle.css     # CSS styling file
+    CCscript.js    # JavaScript logic
+    README.md      # Project documentation
+```
 
 
