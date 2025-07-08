@@ -4,13 +4,6 @@
 
 ---
 
-## 🌟 Demo
-
-👉 Live Demo: *[Add your GitHub Pages link here]*  
-(*You can host it using GitHub Pages to make it public!*)
-
----
-
 ## 🖼️ Features
 
 - 🟩 20 colored boxes with unique colors
