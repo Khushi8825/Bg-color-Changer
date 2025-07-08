@@ -31,8 +31,8 @@
 ---
 
 ## 📂 Project Structure
-colour-changer/
 ```
+colour-changer/
     index.html     # Main HTML file
     CCstyle.css     # CSS styling file
     CCscript.js    # JavaScript logic
